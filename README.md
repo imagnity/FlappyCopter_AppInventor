@@ -1,4 +1,6 @@
-# FlappyCopter_AppInventor
+# Flappy Copter – Create a game like Flappy Bird from scratch using App Inventor
+
+Tutorial Link: https://www.imagnity.com/android/flappy-copter-create-a-game-like-flappy-bird-from-scratch-using-app-inventor/
 
 ## GRAPHICS
 
