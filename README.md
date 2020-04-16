@@ -8,7 +8,7 @@ https://www.imagnity.com/android/flappy-copter-create-a-game-like-flappy-bird-fr
 
 Graphics availed from-
 
-https://www.assetstore.unity3d.com/en/#!/content/90500
+https://assetstore.unity.com/packages/2d/characters/flappy-copters-90500
 
 Make sure you adhere to license terms of the image files.
 
